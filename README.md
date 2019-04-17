@@ -21,3 +21,6 @@ git fetch origin:将本地仓库与远程同步
 
 git branch -a:查看远程与本地的所有分支
 
+git branch -d branch_name:删除指定分支
+
+git merge branch_name:将当前分支与远端分支合并
